@@ -30,7 +30,8 @@ X_train_scaled = scaler.fit_transform(X_train)
 model.fit(X_train_scaled, y_train)
 
 # Streamlit app
-st.title("Cricket Runs Prediction")
+st.title("Cricket Performance Prediction")
+
 st.markdown(
     """
     <style>
@@ -56,7 +57,7 @@ st.markdown(
 )
 
 # Player name input
-player_name = st.text_input("Enter the player's name:")
+player_name = st.text_input("Enter the Batsman name:")
 
 # Check if the player exists in the dataset
 player_data = batters[batters['Player'] == player_name]
