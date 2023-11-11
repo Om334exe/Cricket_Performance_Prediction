@@ -4,7 +4,9 @@
 
 #### Contributors 🌟
 ##### Om334exe 🚀
+https://github.com/Om334exe
 ##### vampsak 🏏
+https://github.com/vampsak
 ### Objectives
 Batsman Performance Prediction:
 
