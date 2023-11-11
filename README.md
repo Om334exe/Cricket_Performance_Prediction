@@ -8,11 +8,12 @@ https://github.com/Om334exe
 ##### vampsak 🏏
 https://github.com/vampsak
 ### Objectives
-Batsman Performance Prediction:
+### Batsman Performance Prediction:
 
 Predict the number of runs a batsman is likely to score in the upcoming match.
 Consider various factors such as historical batting performance, recent form, opposition strength, and match conditions.
-Bowler Performance Prediction:
+
+### Bowler Performance Prediction:
 
 Forecast the number of wickets a bowler is expected to take in the next match.
 Take into account the bowler's past performance, recent form, opposition batting strength, and pitch conditions.
